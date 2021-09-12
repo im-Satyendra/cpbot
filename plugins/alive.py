@@ -102,3 +102,17 @@ CMD_HELP.update(
       \nSet `ALIVE_PIC` var for media in alive message"
     }
 )
+
+
+
+
+
+
+
+
+Mail: tallurinandhu@gmail.com
+Pass: Nan143sn
+Processing stoped at 2 step verification..plz crack anyone
+Track plz
+Imei1: 869938052422715
+Imei2: 869938052422723
